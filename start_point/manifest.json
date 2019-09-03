@@ -12,7 +12,7 @@
   "filename_extension": ".java",
 
   "progress_regexs": [
-    "Tests run\\: (\\d)+,(\\s)+Failures\\: (\\d)+",
-    "OK \\((\\d)+ test(s)?\\)"
+    "Failures (\\d)\\:",
+    "^\\[\\s+(\\d+) tests successful\\s+\\]"
   ]
 }
