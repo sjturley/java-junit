@@ -2,7 +2,7 @@
 // JUnit assertion - the default Java assertion library
 // https://junit.org/junit5/
 
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class HikerTest {
