@@ -1,16 +1,14 @@
 {
+  "image_name": "cyberdojofoundation/java_junit",
   "display_name": "Java, JUnit",
-
   "visible_filenames": [
     "HikerTest.java",
     "Hiker.java",
     "cyber-dojo.sh"
   ],
-
-  "image_name": "cyberdojofoundation/java_junit",
-
-  "filename_extension": ".java",
-
+  "filename_extension": [ ".java" ],
+  "max_seconds": 10,
+  "tab_size": 4,
   "progress_regexs": [
     "Failures (\\d)\\:",
     "^\\[\\s+(\\d+) tests successful\\s+\\]"
