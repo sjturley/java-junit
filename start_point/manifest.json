@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/java_junit",
+  "image_name": "gradle",
   "display_name": "Java, JUnit",
   "visible_filenames": [
     "HikerTest.java",
